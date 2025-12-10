@@ -1,5 +1,7 @@
 ⭐ Hi there, I'm Indrayudh! 👋
-AI Enthusiast • ECE Undergrad • Tech Explorer • ML Builder![akselav-cat](https://github.com/user-attachments/assets/c09b9158-5278-4f0b-b4c7-088f0ed77d13)
+(https://github.com/user-attachments/assets/c09b9158-5278-4f0b-b4c7-088f0ed77d13)
+
+AI Enthusiast • ECE Undergrad • Tech Explorer • ML Builder![akselav-cat]
 
 
 Welcome to my GitHub! I’m Indrayudh Bandyopadhyay, an ECE undergrad who loves building ideas into real projects.
@@ -35,7 +37,8 @@ Vision-based Assistive Tech
 
 Hackathon-grade innovation projects
 
-🤔 Looking for Help With
+🤔 Looking for Help With                      ![very-cat-cat-eat](https://github.com/user-attachments/assets/6f5b9f82-55f5-4138-97b5-f6a6db2aac2d)
+                
 
 Improving gesture recognition pipeline
 
@@ -67,8 +70,11 @@ He / Him
 
 ⚡ Fun Fact
 
-I can spend hours debugging something… only to find one missing semicolon 😄
+I can spend hours debugging something… only to find one missing semicolon 😄 
 But hey — that's what makes programming fun.
+![superman-hero](https://github.com/user-attachments/assets/75b0a5bc-22c7-482d-960d-f565df7e8705)
+
+
 
 🛠️ Tech Stack
 Languages
