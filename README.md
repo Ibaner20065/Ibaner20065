@@ -1,6 +1,6 @@
 ⭐ Hi there, I'm Indrayudh! 👋
 AI Enthusiast • ECE Undergrad • Tech Explorer • ML Builder
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9udWtvNXRuOHVscHJraWx2ZDBhdHQ2Y2tjMmpwemcwNmFnMXAzbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qf9KhrvuVvY9a/giphy.gif" width="300" align="right">
+<img src="https://tenor.com/search/hello-cat-gifs">
 
 Welcome to my GitHub! I’m Indrayudh Bandyopadhyay, an ECE undergrad who loves building ideas into real projects.
 From AI/ML to automation, from system prompts to intelligent workflows — I love exploring how tech can shape the future.
