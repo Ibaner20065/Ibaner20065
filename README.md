@@ -1,6 +1,6 @@
 ⭐ Hi there, I'm Indrayudh! 👋
-AI Enthusiast • ECE Undergrad • Tech Explorer • ML Builder
-<img src="https://tenor.com/search/hello-cat-gifs">
+AI Enthusiast • ECE Undergrad • Tech Explorer • ML Builder![akselav-cat](https://github.com/user-attachments/assets/c09b9158-5278-4f0b-b4c7-088f0ed77d13)
+
 
 Welcome to my GitHub! I’m Indrayudh Bandyopadhyay, an ECE undergrad who loves building ideas into real projects.
 From AI/ML to automation, from system prompts to intelligent workflows — I love exploring how tech can shape the future.
