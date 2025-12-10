@@ -1,5 +1,4 @@
-⭐ Hi there, I'm Indrayudh! 👋
-(https://github.com/user-attachments/assets/c09b9158-5278-4f0b-b4c7-088f0ed77d13)
+⭐ Hi there, I'm Indrayudh! 👋                    (https://github.com/user-attachments/assets/c09b9158-5278-4f0b-b4c7-088f0ed77d13)
 
 AI Enthusiast • ECE Undergrad • Tech Explorer • ML Builder![akselav-cat]
 
