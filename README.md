@@ -95,7 +95,8 @@ Other Skills
 System Prompt Engineering • Workflow Automation • Git/GitHub • Embedded basics
 
 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibaner20065&show_icons=true&theme=tokyonight)
+![Indrayudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibaner20065&show_icons=true&theme=radical&cache_seconds=7200)
+
 
 🎯 Goals for 2025
 
