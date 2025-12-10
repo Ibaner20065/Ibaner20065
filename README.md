@@ -1,4 +1,5 @@
-⭐ Hi there, I'm Indrayudh! 👋                    (https://github.com/user-attachments/assets/c09b9158-5278-4f0b-b4c7-088f0ed77d13)
+⭐ Hi there, I'm Indrayudh! 👋                   ![akselav-cat](https://github.com/user-attachments/assets/f6a6a05f-2bb2-4d90-8a31-747253b0c1a3)
+
 
 AI Enthusiast • ECE Undergrad • Tech Explorer • ML Builder![akselav-cat]
 
@@ -94,7 +95,8 @@ Other Skills
 System Prompt Engineering • Workflow Automation • Git/GitHub • Embedded basics
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ibaner20065&show_icons=true&theme=tokyonight" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibaner20065&layout=compact&theme=tokyonight" height="165"> </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibaner20065&show_icons=true&theme=tokyonight)
+
 🎯 Goals for 2025
 
 Build a full ASL/ISL Sign Recognition System
