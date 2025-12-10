@@ -95,9 +95,8 @@ Other Skills
 System Prompt Engineering • Workflow Automation • Git/GitHub • Embedded basics
 
 📊 GitHub Stats
-<img alt="my stats" align="left" src="https://github-readme-stats-mu-orpin.vercel.app/api?username=Ibaner20065&show_icons=true&theme=radical"/>
-
-<img alt="top langs" src="https://github-readme-stats-mu-orpin.vercel.app/api/top-langs/?username=Ibaner20065&layout=compact&theme=radical"/>
+![GitHub followers](https://img.shields.io/github/followers/Ibaner20065?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Ibaner20065?affiliations=OWNER%2CCOLLABORATOR)
 
 
 
